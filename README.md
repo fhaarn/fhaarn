@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @fhaarn
+## 👋 Hi, I’m Farhan Audianto
 
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning web programing, DevOps on Gitlab
