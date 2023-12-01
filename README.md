@@ -13,7 +13,7 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/farhan-audianto-b92569208/
-[instagram]: https://www.instagram.com/farhanaudianto/
+[instagram]: https://www.instagram.com/_444.814/
 [spotify]: https://open.spotify.com/user/farhanaudianto?si=a7c2df6bca8540d6
 
 <!---
